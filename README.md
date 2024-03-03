@@ -1,4 +1,4 @@
-## Movie Recommendation System
+# Movie Recommendation System
 
 This is a simple movie recommendation system built using Python and Streamlit. The system recommends movies based on their similarity to the selected movie. The similarity is calculated using cosine similarity on movie descriptions, genres, keywords, cast, and crew.
 
